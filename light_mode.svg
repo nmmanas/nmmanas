@@ -2,36 +2,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" width="1080px" height="540px" font-size="15px">
 <style>text, tspan { white-space: pre; }</style>
 <rect width="1080px" height="540px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="28" fill="#24292f" class="ascii" font-size="13px">
-<tspan x="15" y="28">                   ~ii&lt;~*o</tspan>
-<tspan x="15" y="44">                +`  ^~pwwd+~</tspan>
-<tspan x="15" y="60">               , '``^":i*ddo&lt;</tspan>
-<tspan x="15" y="76">              !'^`.     .`!o&lt;,b</tspan>
-<tspan x="15" y="92">              `'.          `,^&gt;</tspan>
-<tspan x="15" y="108">             o....           .,k</tspan>
-<tspan x="15" y="124">             &gt;^`..           ..~</tspan>
-<tspan x="15" y="140">             ;,^,iii:`'",,^'...i</tspan>
-<tspan x="15" y="156">             !!;&gt;++o+;,i++i,"^'i</tspan>
-<tspan x="15" y="172">            b;!;;&gt;&gt;i&gt;^":i&gt;;""^,,</tspan>
-<tspan x="15" y="188">            ~,:,`'``^ '^''.''.`."</tspan>
-<tspan x="15" y="204">            h^;:"^"^.  .``'. .".:</tspan>
-<tspan x="15" y="220">             ;!~&gt;&gt;i&lt;h&gt;!, '''``..</tspan>
-<tspan x="15" y="236">              i+*ddao+oii~:;,`.&lt;</tspan>
-<tspan x="15" y="252">              !~*ko&lt;i!::*hi&lt;:`;</tspan>
-<tspan x="15" y="268">              &gt;+hph!&lt;+i"&gt;o*oi^+</tspan>
-<tspan x="15" y="284">              ~abpb+&lt;&gt;i~khhh+;&gt;</tspan>
-<tspan x="15" y="300">              &lt;hbddppdpbbhaoo!;</tspan>
-<tspan x="15" y="316">             i~hpqpwwwqpbkbkh!i</tspan>
-<tspan x="15" y="332">             ;abpwwqwpdpqqwph~~</tspan>
-<tspan x="15" y="348">              obw&amp;mqmmmwmmmwdo!!h</tspan>
-<tspan x="15" y="364">       dkkkbkaaq&amp;&amp;mm&amp;$%&amp;&amp;$mqda~*~&gt;i&gt;~oh</tspan>
-<tspan x="15" y="380">     *+*oaoohbp&amp;##%$##$%$##&amp;wwbo+~&lt;&lt;~&lt;&gt;ii~</tspan>
-<tspan x="15" y="396">   b~oaakkhbp#@#@@#$%%$$#@%&amp;&amp;qko+++*ooo~&lt;i&gt;</tspan>
-<tspan x="15" y="412">  b+ohkbbkbdp&amp;&amp;%@@@@$%###&amp;qqdkao**ohho+~~&lt;i~</tspan>
-<tspan x="15" y="428"> b+oakbdbkbbpmm&amp;##@@#$$$&amp;qqpbhaaaahka**++~&lt;i</tspan>
-<tspan x="15" y="444"> +oahbpdbbbbdqww%%$$&amp;&amp;%mpppdbhhhhbphooo**+&lt;&gt;</tspan>
-<tspan x="15" y="460">*oahkbqdbbbbdpqqm&amp;%wq&amp;mqppdbkahkbqpaaooo*+~&lt;</tspan>
-<tspan x="15" y="476">hahkbbwpdbbbbdppwwmqpmwdpbbkhahbdmdhaooo**+&lt;</tspan>
+<text x="40" y="70" fill="#24292f" class="ascii" font-size="14px">
+<tspan x="40" y="70">                   +:,;~</tspan>
+<tspan x="40" y="86">                 ".`&gt;hho&gt;&lt;</tspan>
+<tspan x="40" y="102">               &lt;  .^&gt;dwwp&lt;&gt;</tspan>
+<tspan x="40" y="118">              ~ .''^";&gt;aqb&lt;~</tspan>
+<tspan x="40" y="134">              .'`'..   `!*a!~</tspan>
+<tspan x="40" y="150">             &gt;.`.       ."&lt;:,</tspan>
+<tspan x="40" y="166">             :..          `"^*</tspan>
+<tspan x="40" y="182">             ` .            '&gt;</tspan>
+<tspan x="40" y="198">             ''.             "</tspan>
+<tspan x="40" y="214">             `^             .'</tspan>
+<tspan x="40" y="230">             `^^!!!"..`"^'  ..</tspan>
+<tspan x="40" y="246">             ^,:i&gt;+&lt;:"!&lt;i;^'.</tspan>
+<tspan x="40" y="262">             ;!!*~+~:";~&lt;;^""'</tspan>
+<tspan x="40" y="278">            !,:,;!;;`^,;;,``^^;</tspan>
+<tspan x="40" y="294">            ",,'...^.'`.. '. ..*</tspan>
+<tspan x="40" y="310">            ^:^^^^^.  `^`'' '^ *</tspan>
+<tspan x="40" y="326">            ,":"'^`'. ..'.  .`.</tspan>
+<tspan x="40" y="342">            +"&gt;ii!iki;" '.''' ;</tspan>
+<tspan x="40" y="358">             ;&lt;~ah+a*o:":",`'</tspan>
+<tspan x="40" y="374">             &lt;&gt;~hdo&lt;i&gt;ia*:!^.:</tspan>
+<tspan x="40" y="390">             &lt;!+o+;;,^^~+ii^'</tspan>
+<tspan x="40" y="406">             +i*bh!~*i^!+~&lt;,`</tspan>
+<tspan x="40" y="422">             o&lt;hdbi::,;aoooi^</tspan>
+<tspan x="40" y="438">             *+kbka*~~okoo*&lt;"</tspan>
+<tspan x="40" y="454">             &gt;*hbkdpddkha**~^</tspan>
 </text>
 <text x="470" y="30" fill="#24292f">
 <tspan x="470" y="30"><tspan fill="#953800">manas</tspan>@<tspan fill="#0a3069">najimuddeen</tspan></tspan>
